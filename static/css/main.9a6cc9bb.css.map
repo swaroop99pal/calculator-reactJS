@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.9a6cc9bb.css","mappings":"AAAA,EACE,uFACF,CACA,KACE,wBACF","sources":["index.css"],"sourcesContent":["*{\n  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;\n}\nbody{\n  background-color: rgb(244, 236, 241);\n}\n\n"],"names":[],"sourceRoot":""}
